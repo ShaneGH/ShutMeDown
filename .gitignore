@@ -1,0 +1,11 @@
+
+#################
+## Custom
+#################
+
+*.v11.suo
+*.v12.suo
+bin/
+debug/
+*csproj.user
+/packages/*/
